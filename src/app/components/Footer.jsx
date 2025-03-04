@@ -51,7 +51,7 @@ function Footer() {
                       rel="noopener noreferrer"
                       className="hover:underline"
                     >
-                      +6 0194113867
+                      +6 0123392783
                     </a>
                   </li>
                 </ul>
